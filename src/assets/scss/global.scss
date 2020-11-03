@@ -1,0 +1,20 @@
+.link-title {
+  position: relative;
+  display: flex;
+  h3 {
+    margin: 1rem auto;
+  }
+  a {
+    position: absolute;
+    right: 0;
+    top: 1rem;
+  }
+}
+
+.w-50 {
+  width: 50%;
+}
+
+.w-100 {
+  width: 100%;
+}
